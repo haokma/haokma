@@ -14,18 +14,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
+
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
-&nbsp;
+
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
@@ -38,53 +32,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=000000" alt="Vercel logo" title="Vercel" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=000000" alt="Next.js logo" title="Next.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Chart.js-282C34?logo=chart.js&logoColor=FF6384" alt="Chart.js logo" title="Chart.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Svelte-282C34?logo=svelte&logoColor=FF3E00" alt="Svelte logo" title="Svelte" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" alt="Vite logo" title="Vite" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Pug-282C34?logo=pug&logoColor=A86454" alt="Pug logo" title="Pug" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=319795" alt="Django logo" title="Django" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=009688" alt="FastAPI logo" title="FastAPI" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=000000" alt="Flask logo" title="Flask" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=150458" alt="Pandas logo" title="Pandas" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/NumPy-282C34?logo=numpy&logoColor=009688" alt="NumPy logo" title="NumPy" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Scikit-learn-282C34?logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn logo" title="Scikit-learn" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00C4CC" alt="Canva logo" title="Canva" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Photoshop-282C34?logo=adobephotoshop&logoColor=31A88F" alt="Photoshop logo" title="Photoshop" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=00599C" alt="Svelte logo" title="Svelte" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=00599C" alt="Rust logo" title="Rust" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/PowerShell-282C34?logo=powershell&logoColor=5391FE" alt="PowerShell logo" title="PowerShell" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Neovim-282C34?logo=neovim&logoColor=57A143" alt="Neovim logo" title="Neovim" height="25" /></span>
-&nbsp;
+
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
